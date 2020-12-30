@@ -7,11 +7,12 @@
   ...
 </h4>
 
-
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
+  <br><br>
+  <img src="https://github.com/isaac-allef/editable-list-user/blob/master/public/aditable-list-user.gif" alt="editable list user gif" width="600" height="400">
 </p>
 
 ## :rocket: Technologies
