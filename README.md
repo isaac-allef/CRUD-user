@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  ...
+  A simple editable list users using react datasheet component.
 </h4>
 
 <p align="center">
